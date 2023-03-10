@@ -1,0 +1,16 @@
+Especialidades
+
+1 - Centrais e Subestações
+2 - Bobinagens
+3 - Baixa Tensão
+4 - Alta Tensão
+5 - Automóveis
+6 - Electromedicina
+7 - Rádio e Electrónica
+8 - Telecomunicações
+9 - Redes de Distribuição
+10 - Guarda-Fios e Rondas
+11 - Construção e Reparação de Aparelhagem Eléctrica
+12 - Curso de Electricista de Escola de Ensino Técnico Profissional
+
+/***************************************************************/
